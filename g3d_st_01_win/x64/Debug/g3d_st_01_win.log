@@ -1,0 +1,24 @@
+﻿  cube.cpp
+  lodepng.cpp
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(762,10): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(1422,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(1426,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(1498,32): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(3441,25): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(3455,53): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(4262,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(4310,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(4390,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\lodepng.cpp(5329,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main_file.cpp
+  model.cpp
+  shaderprogram.cpp
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\shaderprogram.cpp(60,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sphere.cpp
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\sphere.cpp(123,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  teapot.cpp
+  torus.cpp
+C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\torus.cpp(123,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  g3d_st_01_win.vcxproj -> C:\Users\48531\Downloads\grafika-projekt\g3d_st_01_win\g3d_st_01_win\x64\Debug\g3d_st_01_win.exe
